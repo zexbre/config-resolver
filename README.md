@@ -2,6 +2,11 @@
 
 Returns a value from various configuration formats.
 
+## Change log
+
+Please see [CHANGELOG](CHANGELOG.md) for more information what has changed
+recently.
+
 ## Security
 
 If you discover any security related issues, please email to niks986@gmail.com.
