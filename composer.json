@@ -1,6 +1,7 @@
 {
     "name": "zexbre/config-resolver",
     "description": "Returns a value from various configuration formats.",
+    "license": "MIT",
     "authors": [
         {
             "name": "Nikola Zeravcic",
