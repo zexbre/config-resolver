@@ -1,0 +1,10 @@
+{
+    "name": "zexbre/config-resolver",
+    "description": "Returns a value from various configuration formats.",
+    "authors": [
+        {
+            "name": "Nikola Zeravcic",
+            "email": "niks986@gmail.com"
+        }
+    ]
+}
